@@ -1,7 +1,7 @@
 # Spring Boot REST API - Student Management
 
 ## Project Overview
-This Spring Boot REST API manages student information. It provides endpoints to retrieve, filter, sort, and perform CRUD operations on student records.
+This Spring Boot REST API manages student information. It perform CRUD operations on student records.
 
 ## Project Structure
 - **AppController.java** - Main REST controller with endpoints for student operations.
