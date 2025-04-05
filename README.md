@@ -74,3 +74,18 @@ The `Student` class has the following attributes:
 5. Access endpoints via `http://localhost:8080/app/...`
 
 ## Outputs
+
+1. **Display All Students:**
+-![Image](https://github.com/user-attachments/assets/d1c50b90-719e-4dfc-aca6-c2be225e2c28)
+
+2. **Display Student by id:**
+-![Image](https://github.com/user-attachments/assets/dfd30623-cfee-4302-8a80-6964706508cd)
+
+3. **CURD Operations(POST):**
+-![Image](https://github.com/user-attachments/assets/bffb43c1-0feb-4167-a8e4-356cea4ac6a4)
+
+4. **CURD Operations(PUT):**
+![Image](https://github.com/user-attachments/assets/3a25c413-d674-4361-a560-75e9e5c2a660)
+
+5. **CURD Operations(DELETE):**
+![Image](https://github.com/user-attachments/assets/41566df2-bfba-4b91-8ef4-d113551796e0)
